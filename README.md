@@ -12,8 +12,7 @@ Ao final, você terá feito um jogo onde é possível pular obstáculos. O jogo 
 | :fire: Desafio G8 - ONE  | [Manual do Dev - Jogo Simples usando JavaScript e HTML]([https://www.youtube.com/watch?v=r9buAwVBDhA](https://cursos.alura.com.br/formacao-desenvolvimento-pessoal-grupo8-one))
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://github.com/jonathanmesquita/challenge-amigo-secreto/assets/gif_Amigo Secreto Alura.gif)
-
+![](https://github.com/jonathanmesquita/challenge-amigo-secreto/blob/d0d3203272bd92206c6ae6f19fadb7ef1f741d59/assets/gif_Amigo%20Secreto%20Alura.gif#vitrinedev)
 
 ## Detalhes do projeto
 
