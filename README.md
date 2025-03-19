@@ -6,9 +6,9 @@ Ao final, você terá feito um jogo onde é possível pular obstáculos. O jogo 
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Projeto javascript jogo mario.**
+| :sparkles: Nome        | **Projeto javascript Amigo Secreto Alura.**
 | :label: Tecnologias | javascript, html, css
-| :rocket: URL         | [Demo do jogo do Mario Jump](https://jonathanmesquita.github.io/challenge-amigo-secreto/index.html)
+| :rocket: URL         | [Demo do jogo do Amigo Secreto Alura](https://jonathanmesquita.github.io/challenge-amigo-secreto/index.html)
 | :fire: Desafio     | [Manual do Dev - Jogo Simples usando JavaScript e HTML](https://www.youtube.com/watch?v=r9buAwVBDhA)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
