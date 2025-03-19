@@ -9,7 +9,7 @@ Ao final, você terá feito um jogo onde é possível pular obstáculos. O jogo 
 | :sparkles: Nome        | **Projeto javascript Amigo Secreto Alura.**
 | :label: Tecnologias | javascript, html, css
 | :rocket: URL         | [Demo do jogo do Amigo Secreto Alura](https://jonathanmesquita.github.io/challenge-amigo-secreto/index.html)
-| :fire: Desafio     | [Manual do Dev - Jogo Simples usando JavaScript e HTML](https://www.youtube.com/watch?v=r9buAwVBDhA)
+| :fire: Desafio G8 - ONE  | [Manual do Dev - Jogo Simples usando JavaScript e HTML]([https://www.youtube.com/watch?v=r9buAwVBDhA](https://cursos.alura.com.br/formacao-desenvolvimento-pessoal-grupo8-one))
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![]()
