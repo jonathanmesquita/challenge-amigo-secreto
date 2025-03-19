@@ -36,10 +36,7 @@ Depois de algum tempo empacado em um projeto pessoal fiquei bastante desanimado 
 
 ## Deploy da Aplicação :dash:
 
-
-https://github.com/user-attachments/assets/a131a1e9-44bc-4d8c-b3a4-a722c2797130
-
-
+Entregue no prazo.
 
 ## Pré-requisitos
 
